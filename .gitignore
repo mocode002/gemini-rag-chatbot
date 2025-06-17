@@ -1,0 +1,16 @@
+# .gitignore
+
+# Environment files
+.env
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env/
+*.egg-info/
+
+# OS files
+.DS_Store
